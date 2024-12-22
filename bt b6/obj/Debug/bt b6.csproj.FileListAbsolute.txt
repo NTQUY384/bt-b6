@@ -1,0 +1,15 @@
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\bt b6\bt b6\bin\Debug\bt b6.exe.config
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\bt b6\bt b6\bin\Debug\bt b6.exe
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\bt b6\bt b6\bin\Debug\bt b6.pdb
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\bt b6\bt b6\bin\Debug\EntityFramework.dll
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\bt b6\bt b6\bin\Debug\EntityFramework.SqlServer.dll
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\bt b6\bt b6\bin\Debug\EntityFramework.xml
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\bt b6\bt b6\bin\Debug\EntityFramework.SqlServer.xml
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\bt b6\bt b6\obj\Debug\bt b6.csproj.AssemblyReference.cache
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\bt b6\bt b6\obj\Debug\bt_b6.Form1.resources
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\bt b6\bt b6\obj\Debug\bt_b6.Properties.Resources.resources
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\bt b6\bt b6\obj\Debug\bt b6.csproj.GenerateResource.cache
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\bt b6\bt b6\obj\Debug\bt b6.csproj.CoreCompileInputs.cache
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\bt b6\bt b6\obj\Debug\bt b6.csproj.Up2Date
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\bt b6\bt b6\obj\Debug\bt b6.exe
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\bt b6\bt b6\obj\Debug\bt b6.pdb
